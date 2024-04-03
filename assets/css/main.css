@@ -3321,3 +3321,35 @@ input, select, textarea {
 			}
 
 		}
+
+
+/* edit by id*/
+
+	#eye {
+		top: 27px;
+		color: #585858;
+	}
+
+	#password {
+		width: 600px;
+	}
+
+/* edit by id*/
+	.postIt {
+		width: 100%;
+
+	}	
+
+	.postImg {
+		position: relative;
+	}
+
+	.postImgText {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate( -50%, -50% );
+		color: white;
+	}
+
+	
